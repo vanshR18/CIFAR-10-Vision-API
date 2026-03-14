@@ -4,13 +4,6 @@ A CNN image classifier trained on the CIFAR-10 dataset, served as a REST API usi
 
 ---
 
-## Demo
-
-```
-POST /predict  →  { "prediction": "cat" }
-```
-
----
 
 ## Project Structure
 
