@@ -124,9 +124,5 @@ pillow
 ## Future Improvements
 
 - [ ] Add Normalize() transform for better accuracy
-- [ ] Add data augmentation (random flip, crop)
 - [ ] Add confidence score to API response
-- [ ] Add Batch Normalization layers
-- [ ] Increase training epochs with LR scheduler
-- [ ] Add `/health` endpoint with model metadata
 - [ ] Dockerize the application
