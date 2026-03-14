@@ -27,7 +27,7 @@ model = CNN()
 criterion = torch.nn.CrossEntropyLoss()
 optimizer = optim.Adam(model.parameters(), lr=0.001)
 
-for epoch in range(5):
+for epoch in range(25):
 
     for images, labels in trainloader:
 
