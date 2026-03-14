@@ -41,7 +41,7 @@ A custom CNN built with PyTorch:
 | Linear 2     | 128 → 10 (output classes)    |
 
 **Dataset:** CIFAR-10 — 60,000 images (50k train / 10k test), 32×32 RGB  
-**Training:** 5 epochs, Adam optimizer (lr=0.001), CrossEntropyLoss, batch size 32
+**Training:** 25 epochs, Adam optimizer (lr=0.001), CrossEntropyLoss, batch size 32
 
 ---
 
